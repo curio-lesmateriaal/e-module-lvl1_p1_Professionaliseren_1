@@ -2,11 +2,12 @@
 
 Een interactieve e-module over **versiebeheer** voor de opleiding Software Developer (niveau 1), gebouwd met [`@curio-sd/e-module-builder`](https://github.com/curio-team/e-module-builder).
 
-In deze module van 3 weken leren studenten hoe software developers hun bestanden organiseren en de verschillende versies van hun code beheren:
+In deze module van 4 weken leren studenten hoe software developers hun bestanden organiseren en de verschillende versies van hun code beheren:
 
 - **Week 1 — Bestanden, folders en een mappenstructuur:** wat bestanden, bestandsextensies en folders zijn, en het opzetten van een nette mappenstructuur voor schoolwerk (inclusief OneDrive).
 - **Week 2 — Git en GitHub:** kennismaken met Git, GitHub en repositories; een repository forken en clonen naar de eigen laptop.
 - **Week 3 — Code beheren via Git:** zelf een repository maken, code committen met logische titels en pushen naar GitHub.
+- **Week 4 — Samenwerken met GIT:** Samen in dezelfde repository werken.
 
 > [!NOTE]
 > Een vierde week (*Samenwerken via Git*) wordt later toegevoegd. In `content/module.md` staat `weeks: 3`; verhoog dit naar `4` zodra `content/week4/` is geschreven.
